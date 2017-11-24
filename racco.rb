@@ -5,9 +5,9 @@
 class Racco < Formula
   desc "Deployment toolbox for ECS"
   homepage ""
-  version "0.1.0-beta.19"
-  url "https://github.com/micin-jp/racco/releases/download/v0.1.0-beta.19/racco-v0.1.0-beta.19-x86_64-apple-darwin.tar.gz"
-  sha256 "41cb31f154ee1f7309f0e95970c21f8e6b213e00d8d86c8d5d13de9bc9d2783f"
+  version "0.1.0-beta.20"
+  url "https://github.com/micin-jp/racco/releases/download/v0.1.0-beta.20/racco-v0.1.0-beta.20-x86_64-apple-darwin.tar.gz"
+  sha256 "fa9189dc0a9d358637bafef0af6ea69c059b76d1fc494e462684f1297a383024"
 
   def install
     bin.install 'racco'
